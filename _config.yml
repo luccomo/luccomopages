@@ -5,3 +5,10 @@ plugins:
 
 title: Your Site Title
 description: A short description of your site.
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
