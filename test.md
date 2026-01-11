@@ -1,0 +1,3 @@
+## **Understanding the RDF Stack**
+
+When people talk about "RDF," they're usually referring to more than just the basic RDF standard. RDF itself defines triples, but it's layered with complementary standards. RDFS (RDF Schema) adds types, properties, and structural constraints on top. [OWL](https://www.w3.org/TR/owl-ref/) (Web Ontology Language) is an extension of RDFS that adds rich ontology capabilities. In practice, people don't say "I'm using RDF and RDFS"—they think of this as a single ecosystem. When we say "RDF," we typically mean this entire layered collection of technologies, each building on the previous one.
